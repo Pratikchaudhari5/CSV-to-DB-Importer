@@ -1,0 +1,51 @@
+productId,title,description,price,discount
+1,Laptop A,High-performance laptop with 16GB RAM,50000,2
+2,Smartphone B,Latest smartphone with a 108MP camera,30000,3
+3,Headphones C,Noise-canceling over-ear headphones,15000,4
+4,Smartwatch D,Water-resistant smartwatch with GPS,12000,5
+5,Tablet E,10-inch tablet with 128GB storage,25000,6
+6,Camera F,Digital camera with 4K video recording,45000,7
+7,TV G,55-inch 4K UHD smart TV,60000,8
+8,Speaker H,Bluetooth speaker with deep bass,20000,9
+9,Monitor I,27-inch gaming monitor with 144Hz refresh rate,32000,10
+10,Router J,Wi-Fi 6 router with high speed,15000,11
+11,Projector K,Portable projector for home theater,35000,12
+12,Printer L,All-in-one printer with wireless connectivity,18000,13
+13,Keyboard M,Mechanical keyboard with RGB lighting,12000,14
+14,Mouse N,Ergonomic wireless mouse with customizable buttons,8000,15
+15,External HDD O,2TB external hard drive for data storage,10000,16
+16,SSD P,1TB SSD for fast data access,12000,17
+17,Game Console Q,Next-gen gaming console with exclusive titles,40000,18
+18,VR Headset R,Virtual reality headset for immersive gaming,30000,19
+19,Action Camera S,Compact action camera for adventure filming,25000,20
+20,Smart Home Hub T,Control your smart home devices easily,10000,21
+21,Drone U,High-definition drone with camera,50000,22
+22,Electric Toothbrush V,Sonic electric toothbrush with smart timer,15000,23
+23,Air Purifier W,Air purifier with HEPA filter for clean air,20000,24
+24,Wireless Charger X,Fast wireless charger for smartphones,2000,25
+25,Portable Battery Y,Power bank with solar charging capability,12000,26
+26,Smart Lock Z,Bluetooth-enabled smart door lock,15000,27
+27,Food Processor AA,Versatile food processor with multiple attachments,20000,28
+28,Coffee Maker BB,Programmable coffee maker for fresh brews,18000,29
+29,Electric Kettle CC,Quick-boil electric kettle for tea lovers,12000,30
+30,Blender DD,High-speed blender for smoothies and shakes,10000,31
+31,Toaster EE,Smart toaster with customizable settings,15000,32
+32,Air Fryer FF,Healthy air fryer with multiple cooking modes,10000,33
+33,Vacuum Cleaner GG,Robotic vacuum cleaner for easy cleaning,25000,34
+34,Humidifier HH,Ultrasonic humidifier for improved air quality,10000,35
+35,Smart Thermostat II,Energy-saving smart thermostat for home comfort,15000,36
+36,Wireless Earbuds JJ,Compact wireless earbuds with touch controls,10000,37
+37,Portable Speaker KK,Compact speaker with 360-degree sound,15000,38
+38,Smart Display LL,Voice-controlled smart display with camera,18000,39
+39,Digital Photo Frame MM,Wi-Fi enabled digital photo frame,12000,40
+40,USB Hub NN,Multi-port USB hub for easy connectivity,2000,41
+41,Wireless Gaming Mouse OO,Gaming mouse with adjustable DPI,25000,42
+42,Mechanical Gaming Keyboard PP,RGB mechanical gaming keyboard,15000,43
+43,HDMI Cable QQ,High-speed HDMI cable for 4K devices,500,44
+44,Screen Protector RR,Tempered glass screen protector for smartphones,1000,45
+45,Smart Light Bulb SS,Wi-Fi enabled smart LED light bulb,1500,46
+46,Portable SSD TT,External SSD for fast data transfer,20000,47
+47,Webcam UU,Full HD webcam for video calls,12000,48
+48,Smart Scale VV,Smart scale with Bluetooth connectivity,5000,49
+49,Noise Cancelling Earbuds WW,Wireless earbuds with active noise cancellation,10000,50
+50,LED Strip Lights XX,Smart LED strip lights for home decor,3000,51
